@@ -37,3 +37,10 @@ To create a no-code machine learning model that can accurately distinguish betwe
 
 ## 📁 Folder Structure
 
+```
+├── Apples/ # Class 1 images
+├── Bananas/ # Class 2 images
+├── converted_savedmodel/ # Exported TensorFlow model
+├── LICENSE
+└── README.md
+```
